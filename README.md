@@ -1,7 +1,7 @@
 # A Single Frame and Multi-Frame Joint Network for 360-degree Panorama Video Super-Resolution
 
 ## Overview
-https://github.com/lovepiano/VSR_For_360/blob/master/Fig/network.png
+![Alt text](https://github.com/lovepiano/VSR_For_360/blob/master/Fig/network.png)
 
 ## Requirements
 - Python 3.6
